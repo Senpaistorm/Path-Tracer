@@ -8,11 +8,11 @@ Run compile script in compile.sh in your terminal
 Modify buildscene.c to include objects you would like to path trace!
 Remember to specify the colors and the properties of your objects.
 
-## Running the Ray Tracer
+## Running the Path Tracer
 Once compiled, run ./PathTracer [resolution] [recursion_depth] [num_of_samples] [anti_aliasing_flag] file_name.ppm
 in terminal. Fill in the parameters of your own choice.
 
-## Sample scenes rendered from the Ray Tracer
+## Sample scenes rendered from the Path Tracer
 
 ### Cornell box with importance sampling and explicit sampling
 ![Sample Render 1](cornell.png?raw=true "Title")
